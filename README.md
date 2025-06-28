@@ -86,5 +86,3 @@ Next steps include:
 * Adding audit logging
 * Exposing APIs securely
 * Containerizing with Docker
-
-Want to collaborate or explore more? Feel free to reach out or follow the GitHub repo (coming soon).
